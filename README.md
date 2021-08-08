@@ -1,2 +1,1 @@
-# sharenodes
-this is v2ray world
+https://github.com/clashconfig/online
